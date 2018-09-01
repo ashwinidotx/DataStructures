@@ -1,2 +1,2 @@
 # DataStructures
-Implementing Abstract Data Structures in C.
+Implementing Abstract Data Structures in various Languages.
